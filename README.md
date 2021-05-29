@@ -21,9 +21,21 @@ The dataset is consist of 10 males and 10 females. The visualization examples ar
 We contruct 10 combinations of different upper-clothes and bottom-clothes selected from [clothes](./figures/clothes).
 ## Animations
 The animations examples are applied from [Mixamo](https://www.mixamo.com). Around 300 animations are included in our datasets, and cover a wide spectrum of motions in daily life, such as dance, walk, jump, etc.
+## Visualization videos
+<div align="center">
+    <img src="figures/Tut_Hip_Hop_Dance.gif" width="300px" alt><br>
+    Tut Hip Hop Dance
+</div>
+<div align="center">
+    <img src="figures/Swing_Dancing.gif" width="300px" alt><br>
+    Swing Dancing
+</div>
 
+# Baseline code
+Coming soon.
 
 # Downloads
 The HMR dataset is provided in [Google Drive](). If you have some qustions, please contact jiahangwangchn@gmail.com.
 
 # Citation
+Coming soon.

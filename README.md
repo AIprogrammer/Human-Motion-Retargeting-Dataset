@@ -1,7 +1,7 @@
 # Benchmarking Dataset for Human Motion Retargeting
 
 # Introduction
-Human Motion Retargeting, abbreviated as HMR, is a benchmarking dataset for human motion retargeting and human video generation. The dataset is a synthesized dataset based on Adobe Fuse CC, [Blender](https://www.blender.org/) and [Mixamo](https://www.mixamo.com). HMR dataset contains around 800 videos of 20 different female and male characters with different up-clothes and bottom-clothes. Since we can control the body shape and ratio while constructing the characters, it is quite easy to obtain different videos with the same character identity but different body shape, such as height of the person. The details of the HMR dataset is summarized below.
+Human Motion Retargeting, abbreviated as HMR, is a benchmarking dataset for human motion retargeting and human video generation. The dataset is a synthesized dataset, and contains around 800 videos of 20 different female and male characters with different up-clothes and bottom-clothes. Since we can control the body shape and ratio while constructing the characters, it is quite easy to obtain different videos with the same character identity but different body shape, such as height of the person. The details of the HMR dataset is summarized below.
 
 | HMR |female|male|up-cloths|bottom-clothes|videos|images|animation|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -32,7 +32,7 @@ The animations examples are applied from [Mixamo](https://www.mixamo.com). Aroun
 </div>
 
 # Baseline code
-Coming soon.
+The code for constructing datasets and demonstration is coming soon.
 
 # Downloads
 The HMR dataset is provided in [Google Drive](). If you have some qustions, please contact jiahangwangchn@gmail.com.

@@ -18,7 +18,7 @@ The dataset is consist of 10 males and 10 females. The visualization examples ar
 ![males](./figures/male.png) 
 ![females](./figures/female.png)
 ## Clothes
-We contruct 10 combinations of different upper-clothes and bottom-clothes selected from [clothes].(./figures/clothes).
+We contruct 10 combinations of different upper-clothes and bottom-clothes selected from [clothes](./figures/clothes).
 ## Animations
 The animations examples are applied from [Mixamo](https://www.mixamo.com). Around 300 animations are included in our datasets, and cover a wide spectrum of motions in daily life, such as dance, walk, jump, etc.
 
